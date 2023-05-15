@@ -1,0 +1,1 @@
+Aplikacja okienkowa kołko-krzyżyk, gra daje możliwość prowadzenia rozgrywki z "komputerem" lub dla dwóch graczy!
